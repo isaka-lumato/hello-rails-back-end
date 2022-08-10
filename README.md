@@ -2,6 +2,8 @@
 
 This is a demo project whose aim is to help me practice integrating my Rails application with a client side librart like React and use Redux for state management. 
 
+The link to the front end can be found [here](https://github.com/Nemwel-Boniface/hello-react-front-end)
+
 
 Enjoy!
 
